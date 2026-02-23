@@ -1,0 +1,19 @@
+{
+  "voiceName": "Mizuki",
+  "premium": true,
+  "action": "talk",
+  "language": "ja-JP",
+  "style": 3,
+  "text": "<speak><prosody rate=\"+10%\" pitch=\"0st\">承知しました。 少々お待ちください。 担当の者におつなぎいたします。</prosody></speak>"
+},
+{
+  "endpoint": [
+    {
+      "type": "sip",
+      "uri": "sip:aldosan30@as-1771394869085.sip-ap.vonage.com"
+    }
+  ],
+  "action": "connect",
+  "from": "447700900000",
+  "timeout": 15
+}
