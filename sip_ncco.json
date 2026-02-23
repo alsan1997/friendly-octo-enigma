@@ -1,4 +1,4 @@
-{
+[{
   "voiceName": "Mizuki",
   "premium": true,
   "action": "talk",
@@ -10,10 +10,11 @@
   "endpoint": [
     {
       "type": "sip",
-      "uri": "sip:aldosan30@as-1771394869085.sip-ap.vonage.com"
+      "user": "aldosan30",
+      "domain": "as-1771394869085"
     }
   ],
   "action": "connect",
   "from": "12013405917",
   "timeout": 15
-}
+}]
